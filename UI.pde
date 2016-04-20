@@ -45,7 +45,6 @@ class Interface {
 					time = 0;
 					goToMenu = true;
 					
-					//this.pauseGame();
 				}
 			}
 			
