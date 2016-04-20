@@ -219,7 +219,6 @@ public class Wrestling {
 						line(position.x, position.y, position.x+cos(angle)*sumoRadius, position.y-sin(angle)*sumoRadius);
 						image(player2, position.x-sumoRadius, position.y-sumoRadius+10);
 					}
-					//ellipse(position.x, position.y, diameter, diameter);
 				}
 				endShape();
 			}
