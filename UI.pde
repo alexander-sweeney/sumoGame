@@ -1,7 +1,7 @@
 class Interface {
 
 	public Interface() {
-		//
+		// ..
 	}
 	
 	public void drawImage(float yPos) {
