@@ -1,4 +1,4 @@
-// Physics engine imports
+// Physics engine imports, using jbox2d
 import org.jbox2d.util.nonconvex.*;
 import org.jbox2d.dynamics.contacts.*;
 import org.jbox2d.testbed.*;
