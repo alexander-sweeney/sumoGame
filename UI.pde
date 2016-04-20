@@ -147,7 +147,7 @@ class Interface {
 	}
 	
 	
-	// Show the scores
+	// Show scores
 	
 	public void setDisplayText(String txt, int setDisplayTime) {
 		textTime = 0;
