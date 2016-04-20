@@ -18,7 +18,7 @@ class Interface {
 	
 
 	public void drawButton(PImage inactive, PImage hover, PImage active, int xpos, int ypos, String action) {
-		ypos = (int)(ypos + yPos); // must take the screen offset into account
+		ypos = (int)(ypos + yPos); // take the screen offset into account
 		
 		// If the mouse is on the button…
 		if (mouseX > xpos && mouseX < (xpos + inactive.width) && mouseY > ypos && mouseY < (ypos + inactive.height)) {
