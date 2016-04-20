@@ -30,8 +30,8 @@ public class Wrestling {
 	}
 	
 	/*
-	 * Must be called before starting a new game
-	 * Initialises the physics world and other reset things
+	  Must be called before starting a new game
+	  Initialises the physics world and other reset things
 	 */
 	public void startUp() {
   		if (running) return;
