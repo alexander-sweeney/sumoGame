@@ -188,9 +188,6 @@ public class Wrestling {
 	 * I'm not sure if it is possible to rotate a PImage, so
 	 * I have shown coloured balls behind the sumo and an
 	 * arrow pointing where it is facing.
-	 * 
-	 * Needs cleaned up, I know, but there is little point in
-	 * doing so before one of us figures out the PImage rotation problem.
 	 */
 	public void renderSumos(World w) {
 		for (Body body = game.physics.getWorld().getBodyList(); body != null; body = body.getNext()) {
