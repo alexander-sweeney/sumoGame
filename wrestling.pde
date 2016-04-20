@@ -14,7 +14,7 @@ public class Wrestling {
 	org.jbox2d.dynamics.Body sumoOne, sumoTwo;
 	
 	// player1 and player2 are the PImages for each player
-	// player 1 is coloured blue, player 2 is red
+	// player 1 is coloured blue, player 2 is coloured red
 	
 	public Wrestling(PApplet sketch) {
 		this.sketch = sketch;
