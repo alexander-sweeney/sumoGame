@@ -1,8 +1,8 @@
-// Physics implemented using the BoxWrap2D processing wrapper
-// for jBox2d. Some information is out-of-date somewhere so
-// the source code for the library and wrapper were both great
-// help. Custom renderer was written using the processing wiki
-// page on the library and the source code of the default renderer.
+/* Physics implemented using the BoxWrap2D processing wrapper
+ for jBox2d. Some information is out-of-date somewhere so
+ the source code for the library and wrapper were both great
+ help. Custom renderer was written using the processing wiki
+ page on the library and the source code of the default renderer. */
 
 public class Wrestling {
 	// Game variables
