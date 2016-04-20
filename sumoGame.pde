@@ -1,4 +1,5 @@
 // Physics engine imports, using jbox2d
+// This is needed for the game mechanics 
 import org.jbox2d.util.nonconvex.*;
 import org.jbox2d.dynamics.contacts.*;
 import org.jbox2d.testbed.*;
