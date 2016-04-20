@@ -101,7 +101,7 @@ class Interface {
 		theta += 0.002;
 	}
 	
-	// Go to game/menu screens
+	// Go to the game/menu screens
 
 	public void goToGame() {
 		yPos = this.easing(time, 0, -700, duration);
